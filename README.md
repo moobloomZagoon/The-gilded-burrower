@@ -25,7 +25,7 @@ Mostome music and sound fx are created with a tool with the name Famitracker, an
 [project page](https://github.com/Dn-Programming-Core-Management/Dn-FamiTracker).
 [web page](https://famitracker.org/).
 
-If you recignize some of the effects and music: That's correct a re-used some FX and music from my other project: [Dungeon Quest](https://github.com/moobloomZagoon/Dungeon-Quest) Check it out as well!
+If you recognise some of the effects and music: That's correct a re-used some FX and music from my other project: [Dungeon Quest](https://github.com/moobloomZagoon/Dungeon-Quest) Check it out as well!
 
 The folder sounds hold the wav files for the music and the sound effects and the folder images holds the big screen images for the intro screen, the game over screen and a special screen, see if you are able to get to that one.
 Besides those screens the images folder holds a Sprite image of wich the in-game sprite for the character and level elements are used.
