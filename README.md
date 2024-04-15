@@ -21,7 +21,7 @@ The project was created with pygame to handle some game elements
 If you want to start creating your own python game the pygame website is a good starting point
 [pygame docs](https://www.pygame.org/docs/)
 
-Mostome music and sound fx are created with a tool with the name Famitracker, and some are used from the public domein.
+Most music and sound fx are created with a tool with the name Famitracker, and some are used from the public domein.
 [project page](https://github.com/Dn-Programming-Core-Management/Dn-FamiTracker).
 [web page](https://famitracker.org/).
 
