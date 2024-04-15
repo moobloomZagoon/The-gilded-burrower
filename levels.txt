@@ -1,0 +1,166 @@
+#Level file
+#hier staan de levels uitgetekend
+#later wellicht een level editor of  generator maar nu even met de hand
+#zat na te denken aan random level generator maar dat is veel te moeilijk nu
+# weet ook niet hoe je dat doet zonder levels te krijgen waar je niet uit komt doordat de speler is ingesloten of zo
+
+#% = border
+#z = zand
+#r = rots
+#l = leeg
+#= = muur
+#d = dynamiet 
+#u = uitgang
+#@ = burrower
+
+
+
+# 6 Bonuslevel!!
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%rzlzzzrrzzzzzrzrzzrzzzzzzzzrzzzzzrzzgz%
+%zzzzzgzrzzzzzzzlzzzzrzzzzrzzrzzzzzlzzr%
+%zzzzzzzrg=zrz=zzl=zzz=rzzzrzzzllzzlzzl%
+%g===========z=zzz=zzr=zzzzzrzzllzzzzzz%
+%rzzzzzzzz=zzz=zrz=lgz=zdzzzrzzzzzzzzzd%
+%rrzzrzzzz=zzz=zzz=zzr=rrzzzzzzrzzgzzzz%
+%zzrzzzzzr=rrz=zzz=zzr=rrzzzzzzzzzrzzzr%
+%z===========z=zrz=lzr=zrzzzzrzllzzzgzr%
+%rzrzzzdzz=zzz=zrz=zzr=zrzzgzzzllzzzrzz%
+%zrzzzzzzz=rrl=zzg=zzl=zzzrzzzzzzzgzrzz%
+%lzzzzzzzz=rrl=zzr=zzz=zzzlzzrzzzzzrzzz%
+%z===============r=zzz=zzzrzzzzzzzzrzll%
+%zzzrzrzzz=zzz=rzz=rzz=zrzzrzrzllzzzzzz%
+%zzzzrlrzz=zzz=zzz=gzz=zzrlzzzzllzzzzzg%
+%zzzzlzrzzzzgz=zzr=zrz=zzzrzlrzzzdzzzzz%
+%z===========z=zzz=zzz=zdzrzlrzzzzzzzzz%
+%zzrzzzzzz=zrz=zzz=rzr=zzzzzzlzzrzzzzzz%
+%rz@zzzrzl=zzz=zzz=rzr=zzzzzzzzzrgzzrzz%
+%zzzzrzzzz=zrz=zzz=zdz=zzzzlzzzrzzgzlzz%
+%rrzzzzzdz=zrz=zzz=zzz=zzrzzgzgzrzzrzzu%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+# 1
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%zzzzzzlzzgzrlzzzzzrzrzzzzzzzlzzzzrzzzz%
+%zr@rzzzzzzlzzzzzzzzzrgzzrzzzzlzzzzzlzz%
+%zzzzzzzdzzlzzrzzzzzrzrzzrzzzzzdzzrzzzz%
+%rzrrzzzzzzzzzrzzzzzzrzzrzzzzrzzzrzzzzz%
+%rzlrzzzzzzzzzlrzzrzzzzzzzzrzzzzzzrzrrz%
+%zzzlzzrzzzzzzzzrzzzzzrzlrzzzzzzzzrzrrz%
+%==============================zzzrzzrz%
+%zlzzzrzzgzlzzrzrzzdzzzzzzzgzrzzzzzzzlz%
+%zzgzzzzzrzzzzzlzzzzzzzzrrlrzzrzzzzrzzz%
+%zzzrzzrzrzzzzzzzzzzzzzzrlzrzzrzzzzzzzz%
+%zrzzzzzrzzzzzzzzrrrzzzzzzzrzzlzgzzzzrz%
+%zgzzlzzrzllzzzzzrzrgzzgzzzzrzzzrzzgzlz%
+%zlrzzzzzzzzzzzzzzrlrzzrzzzzzzzzgzzzzzr%
+%zzzzzzzz==============================%
+%lrzzzzzzzzzrzzzgzzzzrzzzzzrzzzrzzzzzzz%
+%lrzdzzzzzzzlrzzrzzzzzzzzrzzzzzzrzrrzzu%
+%zlzzrzzzzzzzzrzzzzzrzllzzzzgzzzrzrrzzz%
+%zzzzrgzzrzzzzzzzzrzzzzzzrzrzzzzzzzrzzz%
+%zzzlzzrzlzzrzrrzzzzzzzzzrzrgzzzzzzlzzr%
+%zgzzzzlzzzzzlzzzzzzzzzlzrzzrzzzzrzzzrz%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+# 2
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%zrzzrzz=zrdzzgz=zzzlzrz=rzzzzzz=zzrrzz%
+%zzzzzzz=zzzzzzr=zrzlzzz=lzzgzdz=zdzzrz%
+%llllllllllllllllllllllllllllllllllllll%
+%gzzzdzz=zrzzzzr=zrzlzzl=zzrzzgz=zzrzrz%
+%zzzzzzz=zrzzzzr=zrzlrzz=zzzzzrz=zzzlzz%
+%===================l==================%
+%zzzzrrz=zzrzzzz=zzzlzzr=zzzzrzz=zzdzzr%
+%zzzzzzz=zzlzzzz=zzzlzzz=zzzzrzl=zzzzzr%
+%llllllllllllllllllllllllllllllllllllll%
+%rdzrzzz=zzzzrzz=zzrlzzz=zzzzzzg=rzzdzz%
+%rzzzzrz=zzrzzrz=zzzlzlr=zzdzzzz=rzzzrz%
+%zrzzzzz=zzzrzzz=zzzlzlr=zzzzzzz=lrzzrz%
+%===================l==================%
+%rzdllzz=zzzzrzr=zzzlzzz=zrgzzrz=zzzzzz%
+%zzzlzrz=zzzzzzz=zzglzzz=lzzrzzz=zrzrrz%
+%llllllllllllllllllllllllllllllllllllll%
+%gzzlzrz=rzzzzrz=zrzlzzr=zrzrzzz=zzzzzz%
+%zzzzzrz=rzzgzzz=zzzlrzz=zzrzdzz=zzzrrl%
+%zgzzzlr=zzrzzzz=z@glrzz=zlzzzdz=zzzrrl%
+%zrzzzzl=zzlzzrz=zuzlzzz=zzzzrzr=zzzzlz%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+# 3
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%rz==z=rrz=zdzr=rzzrzzzz=zzzrzzzuzr=zgz%
+%zz@=zzzrz=zzz===zz=zrzzzzrzzrzrzzz=z=r%
+%zzzz=zzrgzzrzzzz=zzzzzrz==rzzzzzzz=z==%
+%gz=zz=r=rzzrzzzz=zzzrzzzzzzrzrrzzzzzz=%
+%rz=zzz=zzrz==zzrz==gzzzzzzzrzrrzzzzzz=%
+%rrzzrzzzz=zzzrzzzzzzrzrrzzzzzzrzzg==dz%
+%zzrz==zzrzrrzzz=zzzzrzrrzzzzzz=zzrz=zr%
+%zz=zzzgzzzzzzgzrzz==rzzrz=z=rzz=rzzgzr%
+%rzrzzzz=z==zzgzrzz==rzzrzzgz=zzz=zzrz=%
+%zrz==zzzzzrr=zzzgz=z=rzz=rzzz=rzzgzrzz%
+%=z==zzzzzzrr=rzzrz=z==zzz=zzrz==zzrz==%
+%z=zrzrz=zzz==rzzrzzzz=zzzrzzzzz==zrz==%
+%z=zrzrz=zgz=z=rzz=rzzzzrzzrzrrzzzz=zzz%
+%=zz=r=rzzrzzzz=zzzgzzz=zrzzzzzzz=z==zg%
+%=zzz==rzz=zgzzz=rzzrzrzzzrz=rzzzzzz=zz%
+%=zgzzzzrz==zzrz==rzzzzzzzrz=rzzzzzd=zz%
+%zzrzzzz=zzzrzzzzzzrzrrzzzzzz=zzrz=zzz=%
+%rz==zzrz==zzz=zzzzrzrrzdzzzz=zzrgzzrzz%
+%=zzzrzzzzzzrzrgzzzzzzrzzz==zz=rzzgz=zz%
+%rrdzz=zzzzzrzrgzzzzzz=zzrz=gzgzr=zrzzz%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+# 4
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%=========zzzdrzrzzrzzzzzzzzrz=========%
+%=llllllllzzzzzzzzzzzrzzzzrzzzllllllll=%
+%=lgllllllzzrzzzzzzzzzzrzdzrzzllllllgl=%
+%=========zzrzzzdzzzzrzzzzzzrz=========%
+%=llllllllzzzzzzrzzzrzzzzzzzrzllllllll=%
+%=lgllllllzzzzrzzzzzzrzrrzzzzzllllllgl=%
+%=========zrrzzzdzzzzzrzrrzzzzz=========%
+%=llllllllzzzzrzrzzzzrzzrzzzzzllllllll=%
+%=lgllllllzzzzrzrzzzzrzzrzzrzzllllllgl=%
+%=========zrrzrzzrzzzzrzdzrzzz=========%
+%=llllllllzrrzrzzrzzzzzzzzzzzzllllllll=%
+%=lgllllllzzzzrzzrzzzzzzzzrzzzllllllgl=%
+%=========zzzzzrzzzrzdzzrzzrzz=========%
+%zzzzrzrzzrzzzzzzzzrzzzzzrzzzzzzzzzzzzr%
+%zzzzzzrzzzzrzzdzrzzrzrzzzrzzrzzzzdzzzz%
+%zzrzdzzrzzzzzrzzzrzzzzzzzrzzrzzzzzzzzz%
+%zrzzzzzzzzzrzzzzzzrzrrzzzzzzzzzrzzzzzz%
+%rz@zzzrzzzzzzzzzzzrzrrzzzzzzzzzrrzzrzu%
+%zzzzrzzzzzzrzrrzzzzzzrzzzzzzzzrzzrzzzz%
+%rrzzzzzzzzzrzrrzzzzzzzzzrzzrzrzrzzrzzz%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+# 5
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%lzlrzzlzldzlzzrzlzz@lzzrzllzzrzlrzzzlz%
+%zrzrrzzzzzzlzzrzzzrzzzzlzzzrzzzzzgrzrz%
+%lrzzrzzzllzzzrzzrzlzzrzrzzz===========%
+%zzzglzzrzlzzzzzzrzzzzzlzzzzzzzzrrlrzzr%
+%============zzrzrzzzzlzllzzzzzzrllrdzr%
+%zllzzzlzzrzllzzrzllzzzzlrrrzzzzzllrzzl%
+%zdzlrzzzlzzzlzzrzllzzzzzrzrrzzrzlzlrzz%
+%zzrzlzzrzlrzzzzlzzzzzlzzzrlrzzrzzzzlzz%
+%zzzzzrlzzzzzzlzldzrrzlzzzllrzzlzrzzzzr%
+%rzrzzzlzlrzzzzzzlzzrzzzrzzzzrzzzzgrzll%
+%zzzzdzrzlrzzzzzzzzzlrzzrzzz===========%
+%zrrzzzzzzlzzrzlzzzlzzrzllzzrzllzzzlrzu%
+%============rzzzzzzzzlzzzrzzzzzzrzrrzz%
+%zzrzzzllzzzgzzrzlzzrzrrzzzzzzzzzrzrrzz%
+%zzlzzrzlzrzzz========zzzzzzzzzllrzzrzz%
+%rzzlrzzzzrzzrlrzzzglzzlzzzzzzzllrzzrzz%
+%lzzzlzzrzlzzzrzllzzzzzrrrrzzrzlzlrzzlr%
+%zlrzzzzrzzzzlzllzzzzzzrrlrzzrzzzllzzzr%
+%rzllzzrzlldzzzzrzrzlzzzllrzzrzzzzlzzzr%
+%zzzllzrzrlzzzzzrzrzzzzzlldzzlzrzzzzrzz%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
