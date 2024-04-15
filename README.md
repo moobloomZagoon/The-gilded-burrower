@@ -59,7 +59,7 @@ This code requires the following:
 4. go the the folder and type: python TheGuildedBurrower.py
 5. Happy gaming
 
-6. TheGuildedBurrower.exe is a windows executable made with PyInstaller. Yoy still neet the levels.txt file, the mvboli.ttf font file and the sounds and images directory in the same
+6. TheGuildedBurrower.exe is a windows executable made with PyInstaller. Yoy still need the levels.txt file, the mvboli.ttf font file and the sounds and images directory in the same
    folder/workspace otherwise it does not work
 
 ##  <img src="https://github.com/moobloomZagoon/Dungeon-Quest/assets/156084521/078f968f-f0fd-4abd-9a51-13b30f1572bf" valign="top" height="50" width="30" > Troubleshooting
