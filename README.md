@@ -9,7 +9,7 @@ This project is a little game made in Python originally for a school assignment 
 
 The game is called The Gilded Burrower. The premise of the game is to collect all the gold in a level to which the door opens to another level
 
-You have to navigate pas rocks, who will fall if you burrow underneath them. Watch out for the falling rocks because they can crush you (certain death) or trap you (time's up!)
+You have to navigate past rocks, who will fall if you burrow underneath them. Watch out for the falling rocks because they can crush you (certain death) or trap you (time's up!)
 Rocks can be moved by the little burrower only of there's no obstacle in the way.
 
 The second danger is burried Dynamite!. Don't go near it or it will explode and kill the burrower
