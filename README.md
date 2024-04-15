@@ -7,7 +7,7 @@
 
 This project is a little game made in Python originally for a school assignment (informatica)
 
-The game is called The Gilded Burrower. The premise of the game is to collect all the gold in a level to wich the door opens to another level
+The game is called The Gilded Burrower. The premise of the game is to collect all the gold in a level to which the door opens to another level
 
 You have to navigate pas rocks, who will fall if you burrow underneath them. Watch out for the falling rocks because they can crush you (certain death) or trap you (time's up!)
 Rocks can be moved by the little burrower only of there's no obstacle in the way.
@@ -28,7 +28,7 @@ Most music and sound fx are created with a tool with the name Famitracker, and s
 If you recognise some of the effects and music: That's correct a re-used some FX and music from my other project: [Dungeon Quest](https://github.com/moobloomZagoon/Dungeon-Quest) Check it out as well!
 
 The folder sounds hold the wav files for the music and the sound effects and the folder images holds the big screen images for the intro screen, the game over screen and a special screen, see if you are able to get to that one.
-Besides those screens the images folder holds a Sprite image of wich the in-game sprite for the character and level elements are used.
+Besides those screens the images folder holds a Sprite image of which the in-game sprite for the character and level elements are used.
 
 </td>
 </tr>
