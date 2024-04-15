@@ -5,7 +5,7 @@
 <img src="https://github.com/moobloomZagoon/The-gilded-burrower/blob/main/images/title.png"  >
     </td><td valign="top">
 
-This project is a little game made in Python origanally for a school assignment (informatica)
+This project is a little game made in Python originally for a school assignment (informatica)
 
 The game is called The Gilded Burrower. The premise of the game is to collect all the gold in a level to wich the door opens to another level
 
