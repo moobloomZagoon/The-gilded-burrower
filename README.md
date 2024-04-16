@@ -34,7 +34,7 @@ Besides those screens the images folder holds a Sprite image of which the in-gam
 </tr>
 </table>
 
-## <img src="https://github.com/moobloomZagoon/Dungeon-Quest/assets/156084521/b181f1af-7d1a-4bf6-8151-ee10090e3eb8" valign="top" height="50" width="30" > Table of contents
+## <img src="https://github.com/moobloomZagoon/The-gilded-burrower/blob/main/readmegfx/burrower.png" valign="top" height="50" width="30" > Table of contents
 
 - Requirements
 - Recommended modules
