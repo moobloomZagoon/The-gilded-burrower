@@ -71,7 +71,7 @@ Happy coding
 To be made.
 Will add links to tutorials that helped me later on.
 
-## <img src="https://github.com/moobloomZagoon/Dungeon-Quest/assets/156084521/9b570536-549d-4085-b4f3-682efe11bd4a" valign="top" height="50" width="30" > Maintainers
+## <img src="https://github.com/moobloomZagoon/The-gilded-burrower/raw/main/readmegfx/burrower.png" valign="top" height="35" width="35" > Maintainers
 
 Just me
 - moobloomZagoon -
