@@ -45,7 +45,7 @@ Besides those screens the images folder holds a Sprite image of which the in-gam
 - Maintainers
 
 
-## <img src="https://github.com/moobloomZagoon/Dungeon-Quest/assets/156084521/26f865f9-ddd3-45b7-8dbc-12860df59316" valign="top" height="50" width="30" > Requirements
+## <img src="https://github.com/moobloomZagoon/The-gilded-burrower/blob/main/readmegfx/Dynamite.png" valign="top" height="35" width="35" > Requirements
 
 This code requires the following:
 - [python](https://www.python.org/downloads/)
