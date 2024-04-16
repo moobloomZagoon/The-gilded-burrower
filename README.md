@@ -51,7 +51,7 @@ This code requires the following:
 - [python](https://www.python.org/downloads/)
 - [Pygame](https://github.com/pygame/pygame).
 
-##  <img src="https://github.com/moobloomZagoon/Dungeon-Quest/assets/156084521/06ed163b-b793-4033-b8de-fdce7c24ff03" valign="top" height="50" width="30" >  Installation 
+##  <img src="https://github.com/moobloomZagoon/The-gilded-burrower/blob/main/readmegfx/rock.png" valign="top" height="35" width="35" >  Installation 
 
 1. install python - see download page for your OS
 2. install pygame - python -m pip install -U pygame==2.5.2 --user
