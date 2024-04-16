@@ -34,7 +34,7 @@ Besides those screens the images folder holds a Sprite image of which the in-gam
 </tr>
 </table>
 
-## <img src="https://github.com/moobloomZagoon/The-gilded-burrower/blob/main/readmegfx/burrower.png" valign="top" height="50" width="30" > Table of contents
+## <img src="https://github.com/moobloomZagoon/The-gilded-burrower/blob/main/readmegfx/burrower.png" valign="top" height="35" width="35" > Table of contents
 
 - Requirements
 - Recommended modules
