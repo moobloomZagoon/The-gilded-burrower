@@ -67,7 +67,7 @@ You are on your own!
 Happy coding
 
 
-## <img src="https://github.com/moobloomZagoon/Dungeon-Quest/assets/156084521/a339ca7b-5ce5-41f9-a381-0f6cc7ea9371" valign="top" height="50" width="30" > FAQ
+## <img src="https://github.com/moobloomZagoon/The-gilded-burrower/blob/main/readmegfx/wall.png" valign="top" height="35" width="35" > FAQ
 To be made.
 Will add links to tutorials that helped me later on.
 
